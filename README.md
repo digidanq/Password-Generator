@@ -5,7 +5,7 @@
 ## Description
 This project is a simple password generator that creates random and secure passwords based on user-defined criteria. 
 
-The application helps generate strong passwords, which are essential for protecting user accounts and data :contentReference[oaicite:1]{index=1}.
+The application helps generate strong passwords, which are essential for protecting user accounts and data.
 
 ---
 
